@@ -1,6 +1,6 @@
 # 🧮 Gaussian Elimination Toolkit
 
-> Menyelesaikan Sistem Persamaan Linear (SPL) langkah demi langkah — dari matriks mentah hingga solusi akhir, tercetak transparan di setiap baris proses.
+> Menyelesaikan Sistem Persamaan Linear (SPL) langkah demi langkah dari matriks mentah hingga solusi akhir, tercetak transparan di setiap baris proses.
 
 [![Python](https://img.shields.io/badge/Python-3.7%2B-3776AB?logo=python&logoColor=white)](https://www.python.org/)
 [![NumPy](https://img.shields.io/badge/NumPy-required-013243?logo=numpy&logoColor=white)](https://numpy.org/)
